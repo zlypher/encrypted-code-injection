@@ -1,11 +1,8 @@
 {
-  "name": "aes-enc-code",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Thomas Prochazka <thomas.prochazka@gmail.com>",
-  "license": "MIT"
+    "name": "aes-enc-code",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "Thomas Prochazka <thomas.prochazka@gmail.com>",
+    "license": "MIT"
 }

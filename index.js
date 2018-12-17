@@ -1,4 +1,3 @@
 const example = require("./example");
 
-console.log(example); // [Function]
-example(); // "blub"
+example(); // "Hello World"

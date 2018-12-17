@@ -1,7 +1,7 @@
 {
     "name": "encrypted-code-injection",
     "version": "1.0.0",
-    "description": "",
+    "description": "Research: Inject encrypted code á la event-emitter incident",
     "main": "index.js",
     "author": "Thomas Prochazka <thomas.prochazka@gmail.com>",
     "scripts": {

@@ -1,8 +1,15 @@
 {
-    "name": "aes-enc-code",
+    "name": "encrypted-code-injection",
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
     "author": "Thomas Prochazka <thomas.prochazka@gmail.com>",
-    "license": "MIT"
+    "scripts": {
+        "start": "node .",
+        "test": "jest"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "jest": "23.6.0"
+    }
 }
